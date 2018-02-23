@@ -1,7 +1,7 @@
 library IEEE;
 use IEEE.std_logic_1164.all;
 use IEEE.numeric_std.all;
---Bloque contador de una salida. Su salida se  pone en 1 cuando el contador llega a cycles ciclos .
+--Bloque contador de una salida. Su salida se  pone en 1 cuando el contador llega al valor indicado en cycles.
 
 --necesito generar una señal muestreadora con una frecuencia de 16*BaudRate.
 
